@@ -1,0 +1,6 @@
+{
+  "name": "Children & Family Physician Clinic — Tangi, Charsadda",
+  "description": "Professional clinic demo for Children & Family Physician near THQ Hospital, Tangi, Charsadda, KP, Pakistan. MBBS, MPH, RMP, MCPS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
